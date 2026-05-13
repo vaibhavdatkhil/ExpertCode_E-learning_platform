@@ -1,7 +1,7 @@
 
-# 🎓 ExpertSkills – E-Learning Platform
+# 🎓 ExpertCode – E-Learning Platform
 
-**ExpertSkills** is a responsive and modern e-learning website built using HTML, CSS, and JavaScript. It provides learners with access to curated courses in trending tech fields such as AI, Data Science, Cloud, App Development, and Full Stack Web Development.
+**ExpertCode** is a responsive and modern e-learning website built using HTML, CSS, and JavaScript. It provides learners with access to curated courses in trending tech fields such as AI, Data Science, Cloud, App Development, and Full Stack Web Development.
 
 ---
 
@@ -71,9 +71,6 @@ ExpertSkills--E-Learning-platform/
 
 ## 👨‍💻 Author
 
-**Fahad Ali**  
-Full Stack Developer | HTML, CSS, JavaScript | Python, Django, React  
-[LinkedIn](https://linkedin.com/in/fahadali1078) • [GitHub](https://github.com/FAHAD-ALI-github)
-
+Vaibhav Datkhil
 ---
 
